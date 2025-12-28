@@ -1,8 +1,8 @@
-# Ontario Gateway — Monte Carlo Insurance Decision Simulation (Python)
+# Monte Carlo Insurance Decision Simulation
 
-This repository contains a reproducible **Monte Carlo simulation model built from scratch in Python** for the *Ontario Gateway* case (aircraft insurance decision).
+This repository contains a reproducible **Monte Carlo simulation model built from scratch in Python**.
 
-## Executive summary (from notebook)
+## Summary
 
 Based on a Monte Carlo simulation of 50,000 trials over a 5-year period,  
 HIC (Hawthorne Insurance Corporation) provides the lowest expected total cost  
